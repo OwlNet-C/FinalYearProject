@@ -1,0 +1,8 @@
+,tweet,clean_tweet,SVM_Model,AFINN_Lexicon,TFIDF_Lexicon,Sentiment score
+0,Colt Brennan and Hawaii used to have you up late watching their games. Then had me playing NCAA football with Hawaii even chose to go there with one of my created players. RIP to a college football legend.,"['colt', 'brennan', 'hawaii', 'use', 'late', 'watch', 'game', 'play', 'ncaa', 'football', 'hawaii', 'even', 'choose', 'go', 'one', 'created', 'player', 'rip', 'college', 'football', 'legend']",0,1,-1,0.0
+1,"RT @MichealAyebs: Your a football fan and lover and you don't have a television to watch your football from, @ApplianceWUg has got you UHD…","['rt', 'michealayebs', 'football', 'fan', 'lover', 'television', 'watch', 'football', 'appliancewug', 'get']",0,1,-1,3.0
+2,"RT @BuryFCBoysGirls: Our girls #weetabixwildcats sessions are back in full swing
+
+Aged 5-11 want to get involved with football? Get in touc…","['rt', 'buryfcboysgirls', 'girl', 'weetabixwildcats', 'session', 'back', 'full', 'swing', 'age', 'want', 'get', 'involve', 'football', 'get']",0,1,-1,1.0
+3,"RT @JoeEdwards_Star: Around 4,500 tickets are going on sale for Wolves' final game of the season against Manchester United at Molineux. Tho…","['rt', 'around', 'ticket', 'go', 'sale', 'wolf', 'final', 'game', 'season', 'manchester', 'unite', 'molineux']",0,1,-1,0.0
+4,@AdamSchefter Loved watching him play. He put Hawaii football on the map. R.I.P. Colt! 🙏🏼,"['adamschefter', 'love', 'watch', 'play', 'put', 'hawaii', 'football', 'map', 'colt']",0,1,-1,3.0
