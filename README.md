@@ -1,4 +1,9 @@
-# FinalYearProject
-This repository contains my final year project. 
+<h1 align="center">Detecting Online abuse on Twitter using Machine learning and Lexicon approaches</h1>
 
-Note: As this is a project about abuse detection some of the nature of this repositry does contain some explicit content!
+<p align="center">
+    For my Final Year Project i decided to attempt a soloution for abuse on twitter. I decided to opt for a machine learning method that would use existing datasets to try and create an automated approach. I grasped the use of python techniques like Natural Language Processing, Machine learning pipelines, and sentiment analysis. As i progressed through my research i also attempted to evaluate a completely new proposed method that would utilise text classification and combine with a lexicon. This lead to my project evaluating 3 separate methods. 
+</p>
+
+ ![image](https://user-images.githubusercontent.com/45668467/155378011-d6b00555-41f4-4b97-a1c7-a3b045933a97.png)
+ 
+ 
